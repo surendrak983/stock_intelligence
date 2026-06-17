@@ -1,0 +1,15 @@
+# Core
+feedparser>=6.0.10
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+flask>=3.0.0
+
+# Optional delivery
+twilio>=8.0.0          # WhatsApp alerts
+
+# Optional data
+newspaper3k>=0.2.8
+schedule>=1.2.1
+
+# Install:
+# pip install feedparser requests beautifulsoup4 flask twilio
